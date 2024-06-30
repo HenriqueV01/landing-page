@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+	 viewBox="0 0 500 500">
 <g id="BACKGROUND">
 </g>
 <g id="OBJECTS">
@@ -69,9 +69,9 @@
 			<path style="fill:url(#SVGID_00000158727103065040651210000003629014070542661808_);" d="M272.742,327.5l-19.553-19.553
 				c-1.761-1.761-4.616-1.761-6.377,0L227.258,327.5H272.742z"/>
 		</g>
-		<text transform="matrix(1 0 0 1 215 361)" style="font-size:30px;">HV01</text>
+		<text transform="matrix(1 0 0 1 215 361)" style="font-size:30px; fill:#5222d0">HV01</text>
 
-			<text transform="matrix(1 0 0 1 200 385)" style="font-size:15px">CONSULTORIA</text>
+    <text transform="matrix(1 0 0 1 200 385)" style="font-size:15px; fill:#5222d0">CONSULTORIA</text>
 	</g>
 </g>
 

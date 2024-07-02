@@ -20,7 +20,7 @@ export class NewsletterFormComponent {
 
     this.newsLetterform = new FormGroup({
       nome: new FormControl('', [Validators.required]),
-      email: new FormControl('', [Validators.required, Validators.email]),
+      email: new FormControl('', [Validators.required, Validators.email])
     })
 
   }

@@ -18,7 +18,7 @@ export class BtnPrimaryComponent {
   @Input() loading: boolean = false;
   @Input() variant: BtnVariants = "primary";
 
-  @Output("submit") onSubmit = new EventEmitter();
+  @Output("outsubmit") onSubmit = new EventEmitter();
 
   submit(){
     this.onSubmit.emit();
